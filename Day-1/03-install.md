@@ -4,7 +4,7 @@
 
 1. Install Terraform from the Downloads [Page](https://developer.hashicorp.com/terraform/downloads)
 
-(or)  (and)
+(or)  
 
 2. Use GitHub Codespaces (Free for 60 hours per month)
 
